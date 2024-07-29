@@ -51,7 +51,7 @@ class TestAccessNestedMap(unittest.TestCase):
 
 class TestGetJson(unittest.TestCase):
     """
-    A TestGetJson 
+    A TestGetJson
     Test the get_json function
     """
     @parameterized.expand([
