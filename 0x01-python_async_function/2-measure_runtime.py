@@ -15,6 +15,7 @@ spec.loader.exec_module(module)
 
 wait_n = module.wait_n
 
+
 def measure_time(n: int, max_delay: int) -> float:
     """Measure_time function that returns sorted lists containing
        max_delay random values
